@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.env
+api_keys.toml
+.streamlit/secrets.toml
+parsed/
+benchmark_results*.json
+*.zip
+.pytest_cache/
+.test_tmp/
